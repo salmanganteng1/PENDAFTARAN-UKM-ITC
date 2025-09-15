@@ -1,1 +1,25 @@
-# PENDAFTARAN-UKM-ITC
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pendaftaran UKM ITC</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-blue-100 to-blue-200 min-h-screen flex items-center justify-center">
+
+  <div class="bg-white shadow-2xl rounded-2xl p-6 w-full max-w-3xl">
+    <h1 class="text-3xl font-bold text-center text-blue-700 mb-6">
+      Form Pendaftaran UKM ITC
+    </h1>
+
+    <!-- Sematkan Google Form -->
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7EllEuDhdgf_x4kESTo7eH0BBas0nJW1tnyYuB4NtL6fSWw/viewform?embedded=true"
+            width="100%" height="950" frameborder="0" marginheight="0" marginwidth="0"
+            class="rounded-xl">
+      Memuat…
+    </iframe>
+  </div>
+
+</body>
+</html>
